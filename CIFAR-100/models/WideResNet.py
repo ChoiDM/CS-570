@@ -46,8 +46,9 @@ class NetworkBlock(nn.Module):
         return self.layer(x)
 
 class WideResNet(nn.Module):
-    def __init__(self, depth, num_classes, widen_factor=1, dropRate=0.0):
+    def __init__(self, depth, num_classes, distill_setting='a', widen_factor=1, dropRate=0.0):
         super(WideResNet, self).__init__()
+        self.distill_setting = distill_setting
         nChannels = [16, 16*widen_factor, 32*widen_factor, 64*widen_factor]
         assert((depth - 4) % 6 == 0)
         n = (depth - 4) / 6
@@ -91,11 +92,36 @@ class WideResNet(nn.Module):
         bn2 = self.block3.layer[0].bn1
         bn3 = self.bn1
 
-        return [bn1, bn2, bn3]
+        if self.distill_setting == 'a':
+            return [bn1]
+        elif self.distill_setting == 'b':
+            return [bn2]
+        elif self.distill_setting == 'c':
+            return [bn3]
+        elif self.distill_setting == 'd':
+            return [bn1, bn2]
+        elif self.distill_setting == 'e':
+            return [bn1, bn3]
+        elif self.distill_setting == 'f':
+            return [bn2, bn3]
+        elif self.distill_setting == 'g':
+            return [bn1, bn2, bn3]
 
     def get_channel_num(self):
-
-        return self.nChannels[1:]
+        if self.distill_setting == 'a':
+            return self.nChannels[1:2]
+        elif self.distill_setting == 'b':
+            return self.nChannels[2:3]
+        elif self.distill_setting == 'c':
+            return self.nChannels[3:]
+        elif self.distill_setting == 'd':
+            return self.nChannels[1:3]
+        elif self.distill_setting == 'e':
+            return self.nChannels[1:2] + self.nChannels[3:]
+        elif self.distill_setting == 'f':
+            return self.nChannels[2:]
+        elif self.distill_setting == 'g':
+            return self.nChannels[1:]
 
     def extract_feature(self, x, preReLU=False):
         out = self.conv1(x)
@@ -112,5 +138,18 @@ class WideResNet(nn.Module):
             feat2 = self.block3.layer[0].bn1(feat2)
             feat3 = self.bn1(feat3)
 
-        return [feat1, feat2, feat3], out
+        if self.distill_setting == 'a':
+            return [feat1], out
+        elif self.distill_setting == 'b':
+            return [feat2], out
+        elif self.distill_setting == 'c':
+            return [feat3], out
+        elif self.distill_setting == 'd':
+            return [feat1, feat2], out
+        elif self.distill_setting == 'e':
+            return [feat1, feat3], out
+        elif self.distill_setting == 'f':
+            return [feat2, feat3], out
+        elif self.distill_setting == 'g':
+            return [feat1, feat2, feat3], out
 

@@ -1,0 +1,1208 @@
+Files already downloaded and verified
+Files already downloaded and verified
+distill_setting: a
+the number of teacher model parameters: 5872180
+the number of student model parameters: 2772020
+Performance of teacher network
+Test 	 Time Taken: 2.35 sec
+Loss: 0.880 | Acc: 78.910% (7891/10000)
+
+Distillation epoch: 0
+Train 	 Time Taken: 20.16 sec
+Loss: 3.799 | Acc: 11.018% (5509/50000)
+Test 	 Time Taken: 0.96 sec
+Loss: 3.317 | Acc: 18.840% (1884/10000)
+
+Distillation epoch: 1
+Train 	 Time Taken: 19.60 sec
+Loss: 2.815 | Acc: 27.514% (13757/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 2.707 | Acc: 29.350% (2935/10000)
+
+Distillation epoch: 2
+Train 	 Time Taken: 19.55 sec
+Loss: 2.218 | Acc: 39.766% (19883/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 2.294 | Acc: 38.420% (3842/10000)
+
+Distillation epoch: 3
+Train 	 Time Taken: 19.56 sec
+Loss: 1.912 | Acc: 47.216% (23608/50000)
+Test 	 Time Taken: 0.86 sec
+Loss: 1.911 | Acc: 47.930% (4793/10000)
+
+Distillation epoch: 4
+Train 	 Time Taken: 19.64 sec
+Loss: 1.725 | Acc: 51.800% (25900/50000)
+Test 	 Time Taken: 0.86 sec
+Loss: 1.882 | Acc: 48.440% (4844/10000)
+
+Distillation epoch: 5
+Train 	 Time Taken: 19.60 sec
+Loss: 1.598 | Acc: 54.936% (27468/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.889 | Acc: 47.470% (4747/10000)
+
+Distillation epoch: 6
+Train 	 Time Taken: 19.55 sec
+Loss: 1.507 | Acc: 57.300% (28650/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.916 | Acc: 49.310% (4931/10000)
+
+Distillation epoch: 7
+Train 	 Time Taken: 19.55 sec
+Loss: 1.429 | Acc: 59.302% (29651/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.670 | Acc: 53.420% (5342/10000)
+
+Distillation epoch: 8
+Train 	 Time Taken: 19.61 sec
+Loss: 1.371 | Acc: 60.848% (30424/50000)
+Test 	 Time Taken: 0.86 sec
+Loss: 1.615 | Acc: 55.230% (5523/10000)
+
+Distillation epoch: 9
+Train 	 Time Taken: 19.61 sec
+Loss: 1.327 | Acc: 62.186% (31093/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.574 | Acc: 57.080% (5708/10000)
+
+Distillation epoch: 10
+Train 	 Time Taken: 19.60 sec
+Loss: 1.288 | Acc: 62.982% (31491/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.705 | Acc: 53.830% (5383/10000)
+
+Distillation epoch: 11
+Train 	 Time Taken: 19.62 sec
+Loss: 1.252 | Acc: 63.986% (31993/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.582 | Acc: 56.470% (5647/10000)
+
+Distillation epoch: 12
+Train 	 Time Taken: 19.58 sec
+Loss: 1.231 | Acc: 64.464% (32232/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.634 | Acc: 54.740% (5474/10000)
+
+Distillation epoch: 13
+Train 	 Time Taken: 19.55 sec
+Loss: 1.203 | Acc: 65.262% (32631/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 2.142 | Acc: 49.310% (4931/10000)
+
+Distillation epoch: 14
+Train 	 Time Taken: 19.57 sec
+Loss: 1.180 | Acc: 65.960% (32980/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.611 | Acc: 56.800% (5680/10000)
+
+Distillation epoch: 15
+Train 	 Time Taken: 19.54 sec
+Loss: 1.162 | Acc: 66.230% (33115/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.550 | Acc: 58.140% (5814/10000)
+
+Distillation epoch: 16
+Train 	 Time Taken: 19.65 sec
+Loss: 1.144 | Acc: 66.894% (33447/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.575 | Acc: 57.390% (5739/10000)
+
+Distillation epoch: 17
+Train 	 Time Taken: 19.56 sec
+Loss: 1.122 | Acc: 67.442% (33721/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.644 | Acc: 56.430% (5643/10000)
+
+Distillation epoch: 18
+Train 	 Time Taken: 19.56 sec
+Loss: 1.110 | Acc: 67.862% (33931/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.512 | Acc: 58.570% (5857/10000)
+
+Distillation epoch: 19
+Train 	 Time Taken: 19.61 sec
+Loss: 1.102 | Acc: 68.066% (34033/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.543 | Acc: 58.420% (5842/10000)
+
+Distillation epoch: 20
+Train 	 Time Taken: 19.57 sec
+Loss: 1.089 | Acc: 68.270% (34135/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.428 | Acc: 59.980% (5998/10000)
+
+Distillation epoch: 21
+Train 	 Time Taken: 19.60 sec
+Loss: 1.087 | Acc: 68.528% (34264/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.474 | Acc: 59.220% (5922/10000)
+
+Distillation epoch: 22
+Train 	 Time Taken: 19.64 sec
+Loss: 1.069 | Acc: 68.904% (34452/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.587 | Acc: 58.180% (5818/10000)
+
+Distillation epoch: 23
+Train 	 Time Taken: 19.65 sec
+Loss: 1.071 | Acc: 68.818% (34409/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.421 | Acc: 60.740% (6074/10000)
+
+Distillation epoch: 24
+Train 	 Time Taken: 19.60 sec
+Loss: 1.052 | Acc: 69.254% (34627/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.703 | Acc: 56.190% (5619/10000)
+
+Distillation epoch: 25
+Train 	 Time Taken: 19.65 sec
+Loss: 1.055 | Acc: 69.460% (34730/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.527 | Acc: 58.970% (5897/10000)
+
+Distillation epoch: 26
+Train 	 Time Taken: 19.63 sec
+Loss: 1.043 | Acc: 69.844% (34922/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.401 | Acc: 62.000% (6200/10000)
+
+Distillation epoch: 27
+Train 	 Time Taken: 19.72 sec
+Loss: 1.039 | Acc: 69.868% (34934/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.503 | Acc: 59.850% (5985/10000)
+
+Distillation epoch: 28
+Train 	 Time Taken: 19.78 sec
+Loss: 1.034 | Acc: 69.798% (34899/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.496 | Acc: 59.240% (5924/10000)
+
+Distillation epoch: 29
+Train 	 Time Taken: 19.77 sec
+Loss: 1.023 | Acc: 69.992% (34996/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.619 | Acc: 57.000% (5700/10000)
+
+Distillation epoch: 30
+Train 	 Time Taken: 19.85 sec
+Loss: 1.022 | Acc: 70.294% (35147/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.585 | Acc: 58.750% (5875/10000)
+
+Distillation epoch: 31
+Train 	 Time Taken: 19.78 sec
+Loss: 1.010 | Acc: 70.588% (35294/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.531 | Acc: 58.630% (5863/10000)
+
+Distillation epoch: 32
+Train 	 Time Taken: 19.82 sec
+Loss: 1.011 | Acc: 70.288% (35144/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.474 | Acc: 60.010% (6001/10000)
+
+Distillation epoch: 33
+Train 	 Time Taken: 19.93 sec
+Loss: 1.004 | Acc: 70.550% (35275/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.509 | Acc: 59.640% (5964/10000)
+
+Distillation epoch: 34
+Train 	 Time Taken: 19.88 sec
+Loss: 1.007 | Acc: 70.532% (35266/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.484 | Acc: 59.720% (5972/10000)
+
+Distillation epoch: 35
+Train 	 Time Taken: 19.87 sec
+Loss: 0.997 | Acc: 70.836% (35418/50000)
+Test 	 Time Taken: 1.00 sec
+Loss: 1.452 | Acc: 59.690% (5969/10000)
+
+Distillation epoch: 36
+Train 	 Time Taken: 19.81 sec
+Loss: 0.992 | Acc: 70.978% (35489/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.429 | Acc: 60.210% (6021/10000)
+
+Distillation epoch: 37
+Train 	 Time Taken: 19.88 sec
+Loss: 0.994 | Acc: 70.820% (35410/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.507 | Acc: 59.800% (5980/10000)
+
+Distillation epoch: 38
+Train 	 Time Taken: 19.82 sec
+Loss: 0.988 | Acc: 71.100% (35550/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.641 | Acc: 57.880% (5788/10000)
+
+Distillation epoch: 39
+Train 	 Time Taken: 19.82 sec
+Loss: 0.987 | Acc: 70.988% (35494/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.442 | Acc: 61.090% (6109/10000)
+
+Distillation epoch: 40
+Train 	 Time Taken: 19.75 sec
+Loss: 0.987 | Acc: 71.144% (35572/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.459 | Acc: 60.220% (6022/10000)
+
+Distillation epoch: 41
+Train 	 Time Taken: 19.72 sec
+Loss: 0.981 | Acc: 71.348% (35674/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.550 | Acc: 59.080% (5908/10000)
+
+Distillation epoch: 42
+Train 	 Time Taken: 19.71 sec
+Loss: 0.981 | Acc: 71.340% (35670/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.479 | Acc: 60.440% (6044/10000)
+
+Distillation epoch: 43
+Train 	 Time Taken: 19.73 sec
+Loss: 0.972 | Acc: 71.558% (35779/50000)
+Test 	 Time Taken: 0.96 sec
+Loss: 1.528 | Acc: 59.860% (5986/10000)
+
+Distillation epoch: 44
+Train 	 Time Taken: 19.85 sec
+Loss: 0.977 | Acc: 71.294% (35647/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.395 | Acc: 62.340% (6234/10000)
+
+Distillation epoch: 45
+Train 	 Time Taken: 19.77 sec
+Loss: 0.976 | Acc: 71.418% (35709/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.385 | Acc: 62.340% (6234/10000)
+
+Distillation epoch: 46
+Train 	 Time Taken: 19.71 sec
+Loss: 0.963 | Acc: 71.746% (35873/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.512 | Acc: 59.950% (5995/10000)
+
+Distillation epoch: 47
+Train 	 Time Taken: 19.79 sec
+Loss: 0.954 | Acc: 71.922% (35961/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.720 | Acc: 57.820% (5782/10000)
+
+Distillation epoch: 48
+Train 	 Time Taken: 19.78 sec
+Loss: 0.961 | Acc: 71.840% (35920/50000)
+Test 	 Time Taken: 0.85 sec
+Loss: 1.390 | Acc: 62.440% (6244/10000)
+
+Distillation epoch: 49
+Train 	 Time Taken: 19.79 sec
+Loss: 0.960 | Acc: 71.830% (35915/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.421 | Acc: 61.590% (6159/10000)
+
+Distillation epoch: 50
+Train 	 Time Taken: 19.72 sec
+Loss: 0.961 | Acc: 71.824% (35912/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.413 | Acc: 61.850% (6185/10000)
+
+Distillation epoch: 51
+Train 	 Time Taken: 19.74 sec
+Loss: 0.958 | Acc: 71.794% (35897/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.452 | Acc: 60.050% (6005/10000)
+
+Distillation epoch: 52
+Train 	 Time Taken: 19.72 sec
+Loss: 0.957 | Acc: 71.792% (35896/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.422 | Acc: 61.470% (6147/10000)
+
+Distillation epoch: 53
+Train 	 Time Taken: 19.70 sec
+Loss: 0.951 | Acc: 72.312% (36156/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.489 | Acc: 60.300% (6030/10000)
+
+Distillation epoch: 54
+Train 	 Time Taken: 19.73 sec
+Loss: 0.952 | Acc: 72.006% (36003/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 1.438 | Acc: 60.570% (6057/10000)
+
+Distillation epoch: 55
+Train 	 Time Taken: 19.80 sec
+Loss: 0.953 | Acc: 71.890% (35945/50000)
+Test 	 Time Taken: 1.03 sec
+Loss: 1.479 | Acc: 59.690% (5969/10000)
+
+Distillation epoch: 56
+Train 	 Time Taken: 19.86 sec
+Loss: 0.948 | Acc: 72.282% (36141/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.618 | Acc: 58.340% (5834/10000)
+
+Distillation epoch: 57
+Train 	 Time Taken: 19.82 sec
+Loss: 0.952 | Acc: 72.106% (36053/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.391 | Acc: 62.530% (6253/10000)
+
+Distillation epoch: 58
+Train 	 Time Taken: 19.81 sec
+Loss: 0.943 | Acc: 72.428% (36214/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.446 | Acc: 61.370% (6137/10000)
+
+Distillation epoch: 59
+Train 	 Time Taken: 19.75 sec
+Loss: 0.944 | Acc: 72.252% (36126/50000)
+Test 	 Time Taken: 0.97 sec
+Loss: 1.432 | Acc: 61.760% (6176/10000)
+
+Distillation epoch: 60
+Train 	 Time Taken: 19.71 sec
+Loss: 0.943 | Acc: 72.120% (36060/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.616 | Acc: 58.160% (5816/10000)
+
+Distillation epoch: 61
+Train 	 Time Taken: 19.82 sec
+Loss: 0.939 | Acc: 72.400% (36200/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.440 | Acc: 61.500% (6150/10000)
+
+Distillation epoch: 62
+Train 	 Time Taken: 19.74 sec
+Loss: 0.935 | Acc: 72.646% (36323/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 1.349 | Acc: 62.920% (6292/10000)
+
+Distillation epoch: 63
+Train 	 Time Taken: 19.78 sec
+Loss: 0.936 | Acc: 72.258% (36129/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.440 | Acc: 61.770% (6177/10000)
+
+Distillation epoch: 64
+Train 	 Time Taken: 19.69 sec
+Loss: 0.934 | Acc: 72.600% (36300/50000)
+Test 	 Time Taken: 0.97 sec
+Loss: 1.547 | Acc: 58.970% (5897/10000)
+
+Distillation epoch: 65
+Train 	 Time Taken: 19.72 sec
+Loss: 0.937 | Acc: 72.556% (36278/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.420 | Acc: 60.390% (6039/10000)
+
+Distillation epoch: 66
+Train 	 Time Taken: 19.74 sec
+Loss: 0.933 | Acc: 72.682% (36341/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.574 | Acc: 59.110% (5911/10000)
+
+Distillation epoch: 67
+Train 	 Time Taken: 19.82 sec
+Loss: 0.937 | Acc: 72.570% (36285/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 1.555 | Acc: 59.370% (5937/10000)
+
+Distillation epoch: 68
+Train 	 Time Taken: 19.74 sec
+Loss: 0.934 | Acc: 72.554% (36277/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.401 | Acc: 61.880% (6188/10000)
+
+Distillation epoch: 69
+Train 	 Time Taken: 19.77 sec
+Loss: 0.937 | Acc: 72.456% (36228/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.601 | Acc: 58.280% (5828/10000)
+
+Distillation epoch: 70
+Train 	 Time Taken: 19.74 sec
+Loss: 0.927 | Acc: 72.554% (36277/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.448 | Acc: 60.180% (6018/10000)
+
+Distillation epoch: 71
+Train 	 Time Taken: 19.67 sec
+Loss: 0.929 | Acc: 72.778% (36389/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.510 | Acc: 60.290% (6029/10000)
+
+Distillation epoch: 72
+Train 	 Time Taken: 19.71 sec
+Loss: 0.933 | Acc: 72.454% (36227/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.558 | Acc: 58.470% (5847/10000)
+
+Distillation epoch: 73
+Train 	 Time Taken: 19.75 sec
+Loss: 0.928 | Acc: 72.800% (36400/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.451 | Acc: 60.140% (6014/10000)
+
+Distillation epoch: 74
+Train 	 Time Taken: 19.73 sec
+Loss: 0.926 | Acc: 72.858% (36429/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.515 | Acc: 60.920% (6092/10000)
+
+Distillation epoch: 75
+Train 	 Time Taken: 19.71 sec
+Loss: 0.929 | Acc: 72.584% (36292/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.385 | Acc: 62.760% (6276/10000)
+
+Distillation epoch: 76
+Train 	 Time Taken: 19.75 sec
+Loss: 0.926 | Acc: 72.936% (36468/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.469 | Acc: 60.720% (6072/10000)
+
+Distillation epoch: 77
+Train 	 Time Taken: 19.75 sec
+Loss: 0.928 | Acc: 72.682% (36341/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.346 | Acc: 62.860% (6286/10000)
+
+Distillation epoch: 78
+Train 	 Time Taken: 19.80 sec
+Loss: 0.928 | Acc: 72.830% (36415/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.435 | Acc: 60.910% (6091/10000)
+
+Distillation epoch: 79
+Train 	 Time Taken: 19.74 sec
+Loss: 0.920 | Acc: 73.076% (36538/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.532 | Acc: 59.510% (5951/10000)
+
+Distillation epoch: 80
+Train 	 Time Taken: 19.76 sec
+Loss: 0.919 | Acc: 72.798% (36399/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.460 | Acc: 60.130% (6013/10000)
+
+Distillation epoch: 81
+Train 	 Time Taken: 19.75 sec
+Loss: 0.924 | Acc: 72.792% (36396/50000)
+Test 	 Time Taken: 0.96 sec
+Loss: 1.542 | Acc: 60.010% (6001/10000)
+
+Distillation epoch: 82
+Train 	 Time Taken: 19.83 sec
+Loss: 0.918 | Acc: 73.002% (36501/50000)
+Test 	 Time Taken: 0.98 sec
+Loss: 1.659 | Acc: 58.420% (5842/10000)
+
+Distillation epoch: 83
+Train 	 Time Taken: 19.71 sec
+Loss: 0.922 | Acc: 72.676% (36338/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.481 | Acc: 61.520% (6152/10000)
+
+Distillation epoch: 84
+Train 	 Time Taken: 19.73 sec
+Loss: 0.918 | Acc: 73.088% (36544/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.465 | Acc: 61.350% (6135/10000)
+
+Distillation epoch: 85
+Train 	 Time Taken: 19.74 sec
+Loss: 0.921 | Acc: 73.102% (36551/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.548 | Acc: 59.400% (5940/10000)
+
+Distillation epoch: 86
+Train 	 Time Taken: 19.69 sec
+Loss: 0.914 | Acc: 73.142% (36571/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.578 | Acc: 59.320% (5932/10000)
+
+Distillation epoch: 87
+Train 	 Time Taken: 19.84 sec
+Loss: 0.923 | Acc: 72.958% (36479/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.388 | Acc: 63.210% (6321/10000)
+
+Distillation epoch: 88
+Train 	 Time Taken: 19.79 sec
+Loss: 0.924 | Acc: 72.896% (36448/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.792 | Acc: 56.090% (5609/10000)
+
+Distillation epoch: 89
+Train 	 Time Taken: 19.74 sec
+Loss: 0.912 | Acc: 73.310% (36655/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.567 | Acc: 59.260% (5926/10000)
+
+Distillation epoch: 90
+Train 	 Time Taken: 19.78 sec
+Loss: 0.922 | Acc: 72.750% (36375/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.434 | Acc: 61.260% (6126/10000)
+
+Distillation epoch: 91
+Train 	 Time Taken: 19.80 sec
+Loss: 0.914 | Acc: 73.292% (36646/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.461 | Acc: 61.250% (6125/10000)
+
+Distillation epoch: 92
+Train 	 Time Taken: 19.66 sec
+Loss: 0.916 | Acc: 73.038% (36519/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.664 | Acc: 58.610% (5861/10000)
+
+Distillation epoch: 93
+Train 	 Time Taken: 19.72 sec
+Loss: 0.918 | Acc: 72.746% (36373/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.570 | Acc: 59.380% (5938/10000)
+
+Distillation epoch: 94
+Train 	 Time Taken: 19.71 sec
+Loss: 0.914 | Acc: 73.230% (36615/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.419 | Acc: 61.680% (6168/10000)
+
+Distillation epoch: 95
+Train 	 Time Taken: 19.68 sec
+Loss: 0.915 | Acc: 73.248% (36624/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 1.695 | Acc: 57.120% (5712/10000)
+
+Distillation epoch: 96
+Train 	 Time Taken: 19.77 sec
+Loss: 0.914 | Acc: 73.104% (36552/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.560 | Acc: 59.210% (5921/10000)
+
+Distillation epoch: 97
+Train 	 Time Taken: 19.74 sec
+Loss: 0.915 | Acc: 73.212% (36606/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.480 | Acc: 60.820% (6082/10000)
+
+Distillation epoch: 98
+Train 	 Time Taken: 19.70 sec
+Loss: 0.915 | Acc: 73.032% (36516/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 1.430 | Acc: 61.570% (6157/10000)
+
+Distillation epoch: 99
+Train 	 Time Taken: 19.82 sec
+Loss: 0.910 | Acc: 73.340% (36670/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.431 | Acc: 61.990% (6199/10000)
+
+Distillation epoch: 100
+Train 	 Time Taken: 19.71 sec
+Loss: 0.543 | Acc: 84.374% (42187/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.845 | Acc: 75.180% (7518/10000)
+
+Distillation epoch: 101
+Train 	 Time Taken: 19.76 sec
+Loss: 0.422 | Acc: 88.216% (44108/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 0.829 | Acc: 76.210% (7621/10000)
+
+Distillation epoch: 102
+Train 	 Time Taken: 19.84 sec
+Loss: 0.374 | Acc: 89.492% (44746/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 0.830 | Acc: 76.080% (7608/10000)
+
+Distillation epoch: 103
+Train 	 Time Taken: 19.72 sec
+Loss: 0.336 | Acc: 90.668% (45334/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.827 | Acc: 76.410% (7641/10000)
+
+Distillation epoch: 104
+Train 	 Time Taken: 19.77 sec
+Loss: 0.309 | Acc: 91.498% (45749/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.828 | Acc: 76.730% (7673/10000)
+
+Distillation epoch: 105
+Train 	 Time Taken: 19.81 sec
+Loss: 0.286 | Acc: 92.088% (46044/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.841 | Acc: 76.720% (7672/10000)
+
+Distillation epoch: 106
+Train 	 Time Taken: 19.77 sec
+Loss: 0.268 | Acc: 92.782% (46391/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.848 | Acc: 76.090% (7609/10000)
+
+Distillation epoch: 107
+Train 	 Time Taken: 19.76 sec
+Loss: 0.245 | Acc: 93.524% (46762/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 0.866 | Acc: 76.200% (7620/10000)
+
+Distillation epoch: 108
+Train 	 Time Taken: 19.69 sec
+Loss: 0.228 | Acc: 94.004% (47002/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.852 | Acc: 76.280% (7628/10000)
+
+Distillation epoch: 109
+Train 	 Time Taken: 19.83 sec
+Loss: 0.214 | Acc: 94.554% (47277/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.871 | Acc: 76.400% (7640/10000)
+
+Distillation epoch: 110
+Train 	 Time Taken: 19.71 sec
+Loss: 0.202 | Acc: 94.920% (47460/50000)
+Test 	 Time Taken: 0.96 sec
+Loss: 0.866 | Acc: 76.590% (7659/10000)
+
+Distillation epoch: 111
+Train 	 Time Taken: 19.74 sec
+Loss: 0.188 | Acc: 95.448% (47724/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.887 | Acc: 75.720% (7572/10000)
+
+Distillation epoch: 112
+Train 	 Time Taken: 19.85 sec
+Loss: 0.178 | Acc: 95.664% (47832/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.893 | Acc: 75.800% (7580/10000)
+
+Distillation epoch: 113
+Train 	 Time Taken: 19.73 sec
+Loss: 0.171 | Acc: 95.992% (47996/50000)
+Test 	 Time Taken: 0.87 sec
+Loss: 0.909 | Acc: 75.680% (7568/10000)
+
+Distillation epoch: 114
+Train 	 Time Taken: 19.78 sec
+Loss: 0.160 | Acc: 96.216% (48108/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.916 | Acc: 75.970% (7597/10000)
+
+Distillation epoch: 115
+Train 	 Time Taken: 19.78 sec
+Loss: 0.151 | Acc: 96.574% (48287/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.910 | Acc: 75.790% (7579/10000)
+
+Distillation epoch: 116
+Train 	 Time Taken: 19.72 sec
+Loss: 0.145 | Acc: 96.748% (48374/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.949 | Acc: 75.030% (7503/10000)
+
+Distillation epoch: 117
+Train 	 Time Taken: 19.73 sec
+Loss: 0.138 | Acc: 96.940% (48470/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.931 | Acc: 75.810% (7581/10000)
+
+Distillation epoch: 118
+Train 	 Time Taken: 19.78 sec
+Loss: 0.133 | Acc: 97.162% (48581/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.936 | Acc: 75.620% (7562/10000)
+
+Distillation epoch: 119
+Train 	 Time Taken: 19.76 sec
+Loss: 0.130 | Acc: 97.212% (48606/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.943 | Acc: 75.310% (7531/10000)
+
+Distillation epoch: 120
+Train 	 Time Taken: 19.70 sec
+Loss: 0.127 | Acc: 97.236% (48618/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.968 | Acc: 75.350% (7535/10000)
+
+Distillation epoch: 121
+Train 	 Time Taken: 19.78 sec
+Loss: 0.124 | Acc: 97.380% (48690/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 0.957 | Acc: 75.450% (7545/10000)
+
+Distillation epoch: 122
+Train 	 Time Taken: 19.76 sec
+Loss: 0.120 | Acc: 97.590% (48795/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.965 | Acc: 75.300% (7530/10000)
+
+Distillation epoch: 123
+Train 	 Time Taken: 19.82 sec
+Loss: 0.118 | Acc: 97.578% (48789/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 1.012 | Acc: 74.010% (7401/10000)
+
+Distillation epoch: 124
+Train 	 Time Taken: 19.79 sec
+Loss: 0.120 | Acc: 97.468% (48734/50000)
+Test 	 Time Taken: 1.01 sec
+Loss: 0.978 | Acc: 74.910% (7491/10000)
+
+Distillation epoch: 125
+Train 	 Time Taken: 20.01 sec
+Loss: 0.117 | Acc: 97.560% (48780/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.983 | Acc: 74.210% (7421/10000)
+
+Distillation epoch: 126
+Train 	 Time Taken: 19.81 sec
+Loss: 0.119 | Acc: 97.610% (48805/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.003 | Acc: 74.460% (7446/10000)
+
+Distillation epoch: 127
+Train 	 Time Taken: 19.80 sec
+Loss: 0.120 | Acc: 97.382% (48691/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.013 | Acc: 74.260% (7426/10000)
+
+Distillation epoch: 128
+Train 	 Time Taken: 19.75 sec
+Loss: 0.121 | Acc: 97.466% (48733/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.009 | Acc: 74.160% (7416/10000)
+
+Distillation epoch: 129
+Train 	 Time Taken: 19.74 sec
+Loss: 0.125 | Acc: 97.260% (48630/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.048 | Acc: 73.760% (7376/10000)
+
+Distillation epoch: 130
+Train 	 Time Taken: 19.80 sec
+Loss: 0.115 | Acc: 97.556% (48778/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.009 | Acc: 74.390% (7439/10000)
+
+Distillation epoch: 131
+Train 	 Time Taken: 19.83 sec
+Loss: 0.124 | Acc: 97.382% (48691/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.013 | Acc: 74.660% (7466/10000)
+
+Distillation epoch: 132
+Train 	 Time Taken: 19.77 sec
+Loss: 0.126 | Acc: 97.156% (48578/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.063 | Acc: 73.580% (7358/10000)
+
+Distillation epoch: 133
+Train 	 Time Taken: 19.75 sec
+Loss: 0.123 | Acc: 97.256% (48628/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.046 | Acc: 73.760% (7376/10000)
+
+Distillation epoch: 134
+Train 	 Time Taken: 19.77 sec
+Loss: 0.124 | Acc: 97.266% (48633/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.069 | Acc: 73.360% (7336/10000)
+
+Distillation epoch: 135
+Train 	 Time Taken: 19.71 sec
+Loss: 0.123 | Acc: 97.374% (48687/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 1.028 | Acc: 74.320% (7432/10000)
+
+Distillation epoch: 136
+Train 	 Time Taken: 19.71 sec
+Loss: 0.125 | Acc: 97.228% (48614/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.094 | Acc: 72.640% (7264/10000)
+
+Distillation epoch: 137
+Train 	 Time Taken: 19.75 sec
+Loss: 0.133 | Acc: 96.926% (48463/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.104 | Acc: 72.510% (7251/10000)
+
+Distillation epoch: 138
+Train 	 Time Taken: 19.67 sec
+Loss: 0.143 | Acc: 96.550% (48275/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.102 | Acc: 72.850% (7285/10000)
+
+Distillation epoch: 139
+Train 	 Time Taken: 19.78 sec
+Loss: 0.140 | Acc: 96.786% (48393/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.152 | Acc: 72.270% (7227/10000)
+
+Distillation epoch: 140
+Train 	 Time Taken: 19.89 sec
+Loss: 0.141 | Acc: 96.594% (48297/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.097 | Acc: 72.750% (7275/10000)
+
+Distillation epoch: 141
+Train 	 Time Taken: 19.72 sec
+Loss: 0.137 | Acc: 96.892% (48446/50000)
+Test 	 Time Taken: 0.85 sec
+Loss: 1.081 | Acc: 73.150% (7315/10000)
+
+Distillation epoch: 142
+Train 	 Time Taken: 19.71 sec
+Loss: 0.138 | Acc: 96.900% (48450/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.149 | Acc: 71.510% (7151/10000)
+
+Distillation epoch: 143
+Train 	 Time Taken: 19.72 sec
+Loss: 0.139 | Acc: 96.802% (48401/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.116 | Acc: 71.980% (7198/10000)
+
+Distillation epoch: 144
+Train 	 Time Taken: 19.75 sec
+Loss: 0.143 | Acc: 96.596% (48298/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 1.096 | Acc: 72.680% (7268/10000)
+
+Distillation epoch: 145
+Train 	 Time Taken: 19.84 sec
+Loss: 0.142 | Acc: 96.722% (48361/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 1.104 | Acc: 72.980% (7298/10000)
+
+Distillation epoch: 146
+Train 	 Time Taken: 19.74 sec
+Loss: 0.137 | Acc: 96.826% (48413/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 1.096 | Acc: 72.600% (7260/10000)
+
+Distillation epoch: 147
+Train 	 Time Taken: 19.72 sec
+Loss: 0.149 | Acc: 96.380% (48190/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.086 | Acc: 72.580% (7258/10000)
+
+Distillation epoch: 148
+Train 	 Time Taken: 19.82 sec
+Loss: 0.146 | Acc: 96.504% (48252/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 1.162 | Acc: 72.190% (7219/10000)
+
+Distillation epoch: 149
+Train 	 Time Taken: 19.71 sec
+Loss: 0.146 | Acc: 96.426% (48213/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 1.103 | Acc: 72.710% (7271/10000)
+
+Distillation epoch: 150
+Train 	 Time Taken: 19.70 sec
+Loss: 0.080 | Acc: 98.600% (49300/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.918 | Acc: 76.940% (7694/10000)
+
+Distillation epoch: 151
+Train 	 Time Taken: 19.78 sec
+Loss: 0.054 | Acc: 99.332% (49666/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.915 | Acc: 77.010% (7701/10000)
+
+Distillation epoch: 152
+Train 	 Time Taken: 19.75 sec
+Loss: 0.047 | Acc: 99.508% (49754/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.917 | Acc: 77.090% (7709/10000)
+
+Distillation epoch: 153
+Train 	 Time Taken: 19.80 sec
+Loss: 0.044 | Acc: 99.592% (49796/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.914 | Acc: 77.150% (7715/10000)
+
+Distillation epoch: 154
+Train 	 Time Taken: 19.75 sec
+Loss: 0.040 | Acc: 99.646% (49823/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.913 | Acc: 77.290% (7729/10000)
+
+Distillation epoch: 155
+Train 	 Time Taken: 19.68 sec
+Loss: 0.037 | Acc: 99.676% (49838/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.914 | Acc: 77.240% (7724/10000)
+
+Distillation epoch: 156
+Train 	 Time Taken: 19.77 sec
+Loss: 0.036 | Acc: 99.686% (49843/50000)
+Test 	 Time Taken: 1.00 sec
+Loss: 0.916 | Acc: 77.010% (7701/10000)
+
+Distillation epoch: 157
+Train 	 Time Taken: 19.90 sec
+Loss: 0.034 | Acc: 99.746% (49873/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.914 | Acc: 77.360% (7736/10000)
+
+Distillation epoch: 158
+Train 	 Time Taken: 19.79 sec
+Loss: 0.033 | Acc: 99.750% (49875/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.907 | Acc: 77.420% (7742/10000)
+
+Distillation epoch: 159
+Train 	 Time Taken: 19.77 sec
+Loss: 0.032 | Acc: 99.808% (49904/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.913 | Acc: 77.340% (7734/10000)
+
+Distillation epoch: 160
+Train 	 Time Taken: 19.75 sec
+Loss: 0.031 | Acc: 99.808% (49904/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.909 | Acc: 77.160% (7716/10000)
+
+Distillation epoch: 161
+Train 	 Time Taken: 19.73 sec
+Loss: 0.031 | Acc: 99.794% (49897/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.910 | Acc: 77.330% (7733/10000)
+
+Distillation epoch: 162
+Train 	 Time Taken: 19.81 sec
+Loss: 0.029 | Acc: 99.838% (49919/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 0.914 | Acc: 77.200% (7720/10000)
+
+Distillation epoch: 163
+Train 	 Time Taken: 19.75 sec
+Loss: 0.030 | Acc: 99.816% (49908/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.920 | Acc: 77.050% (7705/10000)
+
+Distillation epoch: 164
+Train 	 Time Taken: 19.75 sec
+Loss: 0.029 | Acc: 99.812% (49906/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.918 | Acc: 76.950% (7695/10000)
+
+Distillation epoch: 165
+Train 	 Time Taken: 19.72 sec
+Loss: 0.028 | Acc: 99.868% (49934/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.915 | Acc: 77.210% (7721/10000)
+
+Distillation epoch: 166
+Train 	 Time Taken: 19.74 sec
+Loss: 0.028 | Acc: 99.842% (49921/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.921 | Acc: 77.460% (7746/10000)
+
+Distillation epoch: 167
+Train 	 Time Taken: 19.70 sec
+Loss: 0.027 | Acc: 99.864% (49932/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 0.917 | Acc: 77.290% (7729/10000)
+
+Distillation epoch: 168
+Train 	 Time Taken: 19.77 sec
+Loss: 0.027 | Acc: 99.846% (49923/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.911 | Acc: 77.220% (7722/10000)
+
+Distillation epoch: 169
+Train 	 Time Taken: 19.67 sec
+Loss: 0.027 | Acc: 99.830% (49915/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.915 | Acc: 77.130% (7713/10000)
+
+Distillation epoch: 170
+Train 	 Time Taken: 19.75 sec
+Loss: 0.026 | Acc: 99.892% (49946/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.917 | Acc: 77.120% (7712/10000)
+
+Distillation epoch: 171
+Train 	 Time Taken: 19.74 sec
+Loss: 0.026 | Acc: 99.878% (49939/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.913 | Acc: 76.980% (7698/10000)
+
+Distillation epoch: 172
+Train 	 Time Taken: 19.77 sec
+Loss: 0.025 | Acc: 99.876% (49938/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.916 | Acc: 77.180% (7718/10000)
+
+Distillation epoch: 173
+Train 	 Time Taken: 19.78 sec
+Loss: 0.025 | Acc: 99.890% (49945/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.914 | Acc: 77.270% (7727/10000)
+
+Distillation epoch: 174
+Train 	 Time Taken: 19.76 sec
+Loss: 0.025 | Acc: 99.878% (49939/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.911 | Acc: 77.010% (7701/10000)
+
+Distillation epoch: 175
+Train 	 Time Taken: 19.77 sec
+Loss: 0.025 | Acc: 99.890% (49945/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.918 | Acc: 77.000% (7700/10000)
+
+Distillation epoch: 176
+Train 	 Time Taken: 19.71 sec
+Loss: 0.024 | Acc: 99.896% (49948/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.913 | Acc: 76.880% (7688/10000)
+
+Distillation epoch: 177
+Train 	 Time Taken: 19.71 sec
+Loss: 0.024 | Acc: 99.910% (49955/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.918 | Acc: 77.020% (7702/10000)
+
+Distillation epoch: 178
+Train 	 Time Taken: 19.73 sec
+Loss: 0.025 | Acc: 99.886% (49943/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.917 | Acc: 77.230% (7723/10000)
+
+Distillation epoch: 179
+Train 	 Time Taken: 19.75 sec
+Loss: 0.024 | Acc: 99.890% (49945/50000)
+Test 	 Time Taken: 0.88 sec
+Loss: 0.921 | Acc: 76.880% (7688/10000)
+
+Distillation epoch: 180
+Train 	 Time Taken: 19.77 sec
+Loss: 0.024 | Acc: 99.904% (49952/50000)
+Test 	 Time Taken: 0.96 sec
+Loss: 0.920 | Acc: 77.280% (7728/10000)
+
+Distillation epoch: 181
+Train 	 Time Taken: 19.77 sec
+Loss: 0.024 | Acc: 99.896% (49948/50000)
+Test 	 Time Taken: 0.95 sec
+Loss: 0.921 | Acc: 77.010% (7701/10000)
+
+Distillation epoch: 182
+Train 	 Time Taken: 19.94 sec
+Loss: 0.024 | Acc: 99.892% (49946/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.923 | Acc: 77.230% (7723/10000)
+
+Distillation epoch: 183
+Train 	 Time Taken: 19.83 sec
+Loss: 0.022 | Acc: 99.926% (49963/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.915 | Acc: 77.090% (7709/10000)
+
+Distillation epoch: 184
+Train 	 Time Taken: 19.77 sec
+Loss: 0.023 | Acc: 99.922% (49961/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.919 | Acc: 76.990% (7699/10000)
+
+Distillation epoch: 185
+Train 	 Time Taken: 19.76 sec
+Loss: 0.023 | Acc: 99.916% (49958/50000)
+Test 	 Time Taken: 0.94 sec
+Loss: 0.919 | Acc: 77.260% (7726/10000)
+
+Distillation epoch: 186
+Train 	 Time Taken: 19.80 sec
+Loss: 0.023 | Acc: 99.904% (49952/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.915 | Acc: 77.210% (7721/10000)
+
+Distillation epoch: 187
+Train 	 Time Taken: 19.73 sec
+Loss: 0.023 | Acc: 99.900% (49950/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.924 | Acc: 77.260% (7726/10000)
+
+Distillation epoch: 188
+Train 	 Time Taken: 19.79 sec
+Loss: 0.022 | Acc: 99.932% (49966/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.915 | Acc: 77.240% (7724/10000)
+
+Distillation epoch: 189
+Train 	 Time Taken: 19.69 sec
+Loss: 0.022 | Acc: 99.888% (49944/50000)
+Test 	 Time Taken: 0.98 sec
+Loss: 0.919 | Acc: 76.990% (7699/10000)
+
+Distillation epoch: 190
+Train 	 Time Taken: 19.73 sec
+Loss: 0.022 | Acc: 99.902% (49951/50000)
+Test 	 Time Taken: 0.98 sec
+Loss: 0.926 | Acc: 77.050% (7705/10000)
+
+Distillation epoch: 191
+Train 	 Time Taken: 19.73 sec
+Loss: 0.022 | Acc: 99.906% (49953/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.912 | Acc: 77.170% (7717/10000)
+
+Distillation epoch: 192
+Train 	 Time Taken: 19.79 sec
+Loss: 0.022 | Acc: 99.936% (49968/50000)
+Test 	 Time Taken: 0.93 sec
+Loss: 0.916 | Acc: 77.110% (7711/10000)
+
+Distillation epoch: 193
+Train 	 Time Taken: 19.76 sec
+Loss: 0.022 | Acc: 99.930% (49965/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.918 | Acc: 77.280% (7728/10000)
+
+Distillation epoch: 194
+Train 	 Time Taken: 19.73 sec
+Loss: 0.022 | Acc: 99.942% (49971/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.917 | Acc: 76.940% (7694/10000)
+
+Distillation epoch: 195
+Train 	 Time Taken: 19.76 sec
+Loss: 0.022 | Acc: 99.918% (49959/50000)
+Test 	 Time Taken: 0.90 sec
+Loss: 0.923 | Acc: 77.110% (7711/10000)
+
+Distillation epoch: 196
+Train 	 Time Taken: 19.75 sec
+Loss: 0.022 | Acc: 99.924% (49962/50000)
+Test 	 Time Taken: 0.89 sec
+Loss: 0.927 | Acc: 76.910% (7691/10000)
+
+Distillation epoch: 197
+Train 	 Time Taken: 19.64 sec
+Loss: 0.022 | Acc: 99.926% (49963/50000)
+Test 	 Time Taken: 0.91 sec
+Loss: 0.915 | Acc: 77.090% (7709/10000)
+
+Distillation epoch: 198
+Train 	 Time Taken: 19.66 sec
+Loss: 0.021 | Acc: 99.930% (49965/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.917 | Acc: 77.160% (7716/10000)
+
+Distillation epoch: 199
+Train 	 Time Taken: 19.80 sec
+Loss: 0.022 | Acc: 99.932% (49966/50000)
+Test 	 Time Taken: 0.92 sec
+Loss: 0.919 | Acc: 77.130% (7713/10000)

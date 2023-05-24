@@ -18,6 +18,7 @@ import load_settings
 parser = argparse.ArgumentParser(description='CIFAR-100 training')
 parser.add_argument('--data_path', type=str, default='../data')
 parser.add_argument('--paper_setting', default='a', type=str)
+parser.add_argument('--distill_setting', default='a', type=str)
 parser.add_argument('--epochs', default=200, type=int, help='number of total epochs to run')
 parser.add_argument('--batch_size', default=128, type=int, help='mini-batch size (default: 256)')
 parser.add_argument('--lr', default=0.1, type=float, help='initial learning rate')
